@@ -35,7 +35,7 @@ sections:
       background:
         gradient_end: '#ffffff'
         gradient_start: '#ffffff'
-        text_color_light: true
+        text_color_light: false
   - block: contact
     id: contact
     content:
