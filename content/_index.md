@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: home
     content:
-      title: ShineDay
+      title: ShineDay - Habits Tracker
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin          
 ---
