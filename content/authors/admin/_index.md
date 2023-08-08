@@ -86,9 +86,9 @@ ShineDay is a habit tracking app that is very popular among users. It has a simp
 
 As an app for tracking and developing personal habits, there are no lively social activities or various groups here. There is only you here, facing your every day, every day of your life.
 
-In ShineDay, punching cards is very simple. You only need to plan in advance what you need to clock in every day of the week, and on that day, just lightly click on the habit that has been achieved, and the habit will be flipped lightly. With one click, your clock in is completed.
+In ShineDay, cultivating a habit is very simple. You only need to plan in advance what you need to clock in every day of the week, and on that day, just lightly click on the habit that has been achieved, and the habit will be flipped lightly. With one click, your clock in is completed.
 
 ShineDay can be used not only as a habit tracking tool, but also as a small diary for a day, recording what common things you accomplish every day, and checking in your daily completion items.
 
-Hope you guys like it, can't wait to see a better you..
+Hope you guys like it, can't wait to see a better you!
 {style="text-align: justify;"}

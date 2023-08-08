@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-08-08
 type: landing
 
 sections:
@@ -10,5 +10,5 @@ sections:
     content:
       title: ShineDay
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin 
+      username: admin          
 ---
