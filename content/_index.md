@@ -10,7 +10,7 @@ sections:
     content:
       title: ShineDay - Habits Tracker
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin  
+      username: admin    
   - block: contact
     id: contact
     content:
@@ -43,5 +43,5 @@ sections:
       #   longitude: '-122.1697'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'            
+      columns: '2'                  
 ---
