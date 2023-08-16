@@ -52,7 +52,12 @@ social:
     icon_pack: fab
     link: 'https://apps.apple.com/app/id1263789061'
     display:
-      header:true
+      header:false
+  - icon: google-play
+    icon_pack: fab
+    link: https://play.google.com/store/apps/details?id=com.dandelion.international.shineday  
+    display:
+      header: false 
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
