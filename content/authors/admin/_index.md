@@ -48,7 +48,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: apple
+  - icon: app-store-ios
     icon_pack: fab
     link: 'https://apps.apple.com/app/id1263789061'
     display:
