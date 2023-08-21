@@ -16,7 +16,14 @@ sections:
     content:
       title: Download
       subtitle: ''
-      text: <img src="google-play-badge.png" alt="Google Play Store" width="300"/><img src="apple-store-badge.png" alt="Apple Store" width="250"/>
+      text: For Apple Users 
+            <a href="https://apps.apple.com/app/id1263789061">
+            <img src="apple-store-badge.png" alt="for apple users" width="175"/>  
+            </a>
+            For Android Users
+            <a href="https://play.google.com/store/apps/details?id=com.dandelion.international.shineday">
+            <img src="google-play-badge.png" alt="for android users" width="200"/>  
+            </a>
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
