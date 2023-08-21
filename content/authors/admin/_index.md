@@ -48,16 +48,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: app-store-ios
-    icon_pack: fab
-    link: 'https://apps.apple.com/app/id1263789061'
-    display:
-      header:false
-  - icon: google-play
-    icon_pack: fab
-    link: https://play.google.com/store/apps/details?id=com.dandelion.international.shineday  
-    display:
-      header: false 
+  # - icon: app-store-ios
+  #   icon_pack: fab
+  #   link: 'https://apps.apple.com/app/id1263789061'
+  #   display:
+  #     header:false
+  # - icon: google-play
+  #   icon_pack: fab
+  #   link: https://play.google.com/store/apps/details?id=com.dandelion.international.shineday  
+  #   display:
+  #     header: false 
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen

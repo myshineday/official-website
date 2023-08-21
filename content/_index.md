@@ -10,7 +10,17 @@ sections:
     content:
       title: ShineDay - Habits Tracker
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin    
+      username: admin 
+  - block: markdown
+    id: download
+    content:
+      title: Download
+      subtitle: ''
+      text: <img src="google-play-badge.png" alt="Google Play Store" width="300"/><img src="apple-store-badge.png" alt="Apple Store" width="250"/>
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'             
   - block: contact
     id: contact
     content:
@@ -22,6 +32,10 @@ sections:
       office_hours:
         - '09:00 to 17:00'
       contact_links:
+        - icon: twitter
+          icon_pack: fab
+          name: DM Me
+          link: 'https://twitter.com/MyShineday' 
         - icon: weibo
           icon_pack: fab
           name: Follow Me
